@@ -1,0 +1,12 @@
+Pay 0 is $80
+Pay 1 is $48
+Pay 2 is $72
+Pay 3 is $64
+Pay 4 is $88
+Pay 5 is $104 [error: pay exceeds limit for this employee]
+Pay 0 is $80
+Pay 1 is $48
+Pay 2 is $72
+Pay 3 is $64
+Pay 4 is $88
+Pay 5 is $104 [error: pay exceeds limit for this employee]
